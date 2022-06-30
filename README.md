@@ -28,5 +28,5 @@ valores o si simplemente se generan de forma aleatoria.
 
 ## Entregas
 
-Desde este espacio se puede acceder a las distintas entrega:
+Desde este espacio se puede acceder a las distintas entregas:
 - [Primera entrega](https://github.com/daenloye/InteligenciaArtificialUdeA/blob/main/primeraEntrega/Proyecto_Entrega%201.pdf)
